@@ -1,6 +1,6 @@
 {
   "name": "sha1sum-node",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Cross Platform CLI File SHA-1 Hash Generator",
   "main": "bin/sha1sum.js",
   "scripts": {
